@@ -1,5 +1,6 @@
 # Spotify Advanced SQL Project
-<img width="299" height="168" alt="spotify" src=(https://github.com/user-attachments/assets/51b0de90-4328-4a17-a25c-bc3eccace9a3)>
+<img width="299" height="168" alt="spotify" src= " https://github.com/user-attachments/assets/51b0de90-4328-4a17-a25c-bc3eccace9a3 "/>
+
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. T![spotify]
 he primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
