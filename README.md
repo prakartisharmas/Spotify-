@@ -103,6 +103,8 @@ SELECT
 	highest_energy - lowest_energery as energy_diff
 FROM cte
 ORDER BY 2 DESC '''  
+
+
 4.Find tracks where the energy-to-liveness ratio is greater than 1.2.  
 5.Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.  
 
