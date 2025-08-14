@@ -1,5 +1,6 @@
 # Spotify Advanced SQL Project
-<img width="1200" height="700" alt="spotify" src="https://github.com/user-attachments/assets/310d9c8f-34cc-4b1b-ae0e-b569db6c015c" />
+<img width="1200" height="700" alt="spotify" src=![spotify1](https://github.com/user-attachments/assets/7e1bafd0-c5d7-4248-81de-640601d80699)
+/>
 
 
 [view dataset](https://github.com/prakartisharmas/Spotify-/blob/main/cleaned_dataset.csv)
