@@ -9,7 +9,7 @@ This project involves analyzing a Spotify dataset with various attributes about 
 he primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
 -- create table
-DROP TABLE IF EXISTS spotify;
+<pre> DROP TABLE IF EXISTS spotify;
 CREATE TABLE spotify (
     artist VARCHAR(255),
     track VARCHAR(255),
@@ -35,7 +35,7 @@ CREATE TABLE spotify (
     stream BIGINT,
     energy_liveness FLOAT,
     most_played_on VARCHAR(50)
-);
+); </pre>
 
 ## Project Steps
 
